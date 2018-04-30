@@ -23,3 +23,9 @@ main.cpp：  测试程序
 作用：c++生成随机数值
 
 参考文献：http://notes.maxwi.com/2016/04/10/cpp-random/
+
+3.GreatestCommonDivisor.cpp
+
+adapte Euclid's Alogorithm
+
+寻找最大公约数，采用欧几里得的辗转相除法
