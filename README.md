@@ -29,3 +29,11 @@ main.cpp：  测试程序
 adapte Euclid's Alogorithm
 
 寻找最大公约数，采用欧几里得的辗转相除法
+
+4. TwoSum.cpp
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+求目标数值的数组坐标
